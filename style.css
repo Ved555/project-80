@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+button{
+    background-color: green;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+}
+input{
+    background-color: black;
+}
